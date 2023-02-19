@@ -1,0 +1,7 @@
+.vscode
+/EWARM/FatFS_Test01
+/EWARM/settings
+/EWARM/FatFS_Test01.dep
+/EWARM/FatFS_Test01.ewt
+.mxproject
+FatFS_Test01.ioc
